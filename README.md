@@ -1,5 +1,5 @@
 # Smart-Agriculture-Monitoring-System
-<h4>Overview<.</h4>
+<h4>Overview</h4>
 <p>The Smart Agriculture Monitoring System is an innovative project designed to enhance agricultural productivity and sustainability through the use of advanced technologies. This system integrates sensors, IoT (Internet of Things), and data analytics to provide real-time monitoring and management of various agricultural parameters. It aims to assist farmers in making informed decisions to improve crop yield, optimize resource usage, and reduce environmental impact.</p
 
 <h3>Features</h3>
